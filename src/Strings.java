@@ -1,9 +1,4 @@
-package src;
-
-public class Strings {
-    public static void main(String[] args) {
-
-        /*
+/*
 Method                  Description                                                                        Return Type
 charAt()                Returns the character at the specified index (position)    char
 codePointAt()           Returns the Unicode of the character at the specified index    int
@@ -45,9 +40,12 @@ trim()                  Removes whitespace from both ends of a string  String
 valueOf()               Returns the string representation of the specified value   String
  */
 
+import com.sun.tools.javac.Main;
 
-        String FirstName = "Mohammed"
 
-        System.out.println( irstName
+public class Strings {
+    public static void main(String[] args) {
+
+
     }
 }
