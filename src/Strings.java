@@ -37,15 +37,7 @@ toLowerCase()           Converts a string to lower case letters    String
 toString()              Returns the value of a String object   String
 toUpperCase()           Converts a string to upper case letters    String
 trim()                  Removes whitespace from both ends of a string  String
-valueOf()               Returns the string representation of the specified value   String
- */
+valueOf()               Returns the string representation of the specified value   St
 
-import com.sun.tools.javac.Main;
+*/
 
-
-public class Strings {
-    public static void main(String[] args) {
-
-
-    }
-}
