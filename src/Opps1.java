@@ -12,4 +12,10 @@ public class Opps1 {
 
         return input_1 + input_2 + input_3;
      }
+
+    static void SayhelloI(){
+         System.out.println("Say Yess");
+     }
+
+
 }
