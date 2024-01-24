@@ -1,0 +1,32 @@
+package src;
+
+public class Opps_0Jan {
+    public static void main(String[] args) {
+
+
+        //String Name = "Hasan";
+
+        //String Name2 = new String("Ali Mohhammed");
+
+        //String str1 = "Hello";
+        //String str2 = str1.concat("world");
+
+        //System.out.println(str2);
+
+
+        String Name = "Hasan";
+        System.out.println(Name.concat(" Mohammed  ALi "));
+        //Contains Alphaber
+        System.out.println(Name.contains("a"));
+
+
+
+
+
+
+
+
+
+
+    }
+}
